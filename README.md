@@ -1,4 +1,4 @@
-# Job Market Trends Analysis 
+# Job Market Trends Analysis [Tableau]
 
 ## 📊 Project Overview
 This project focuses on analyzing job market trends by scraping data from online job platforms, particularly Naukri, using Power Automate. The data was collected, processed, and visualized using Tableau to provide insights into job market trends across various domains.
@@ -40,6 +40,11 @@ This project focuses on analyzing job market trends by scraping data from online
 
 ---
 
+## 📹 Project Demo
+[![Watch Demo Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/lankajaswanth/Job-Market-Analysis-2.0/blob/0db87f7d6e8909ac2fcab12d766bb040e29fcd3d/Demo_Job_market_Analysis.mp4)
+
+---
+
 ## 🚀 Steps to Run the Project
 1. **Scraping Job Data:**
    - Use Power Automate to scrape job data from Naukri.
@@ -57,4 +62,4 @@ This project focuses on analyzing job market trends by scraping data from online
 - **Salary Trends:** Higher average salaries were observed in specialized roles.
 - **Role-Based Demand:** Academic roles showed higher demand in tier-2 cities.
 
-
+---
