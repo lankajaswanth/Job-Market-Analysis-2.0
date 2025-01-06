@@ -1,22 +1,60 @@
-# Job-Market-Analysis-2.0
+# Job Market Trends Analysis 
 
-Power Automate:
+## 📊 Project Overview
+This project focuses on analyzing job market trends by scraping data from online job platforms, particularly Naukri, using Power Automate. The data was collected, processed, and visualized using Tableau to provide insights into job market trends across various domains.
 
-1)	Run the script in the power Automate tool.
-2)	It automatically scraps the data of all the job details from each Domain.
-3)	All the Job details will be saved into the excel file.
+---
 
-Jupyter Notebook:
-1)	Use the excel files in the directory and start running all the python script.
-2)	Do it for all the domains.
-3)	Save the excel file in the PC directory.
+## 🎯 Objectives
+- Scrape job listings data from the Naukri platform using Power Automate.
+- Extract job data for different domains including Software, Academic, and Healthcare.
+- Store data in an Excel sheet for further analysis.
+- Create interactive dashboards in Tableau to visualize job trends.
 
+---
 
+## 📦 Data Collection and Storage
+- **Data Source:** Naukri.com
+- **Domains Scraped:**
+   - Software
+   - Academic
+   - Healthcare
+- **Data Size:** 5000 records per domain.
+- **Storage:** Excel files with structured job data including job title, salary, location, role, and company.
 
-Tableau Desktop:
-1)	Load the pre-processed Excel file into Tableau.
-2)	Download the tableau file provided in the GitHub link.
-3)	Start using Tableau Dashboard for analysis purposes.
+---
 
+## 📊 Tools and Technologies Used
+- **Data Scraping:** Power Automate
+- **Data Storage:** Excel
+- **Data Visualization:** Tableau
+
+---
+
+## 📈 Key Features of Tableau Dashboard
+- **Domain-Based Filtering:** Visualize job trends for Software, Academic, and Healthcare.
+- **Geographical Insights:** Map visualization showing job distribution by location.
+- **Role-Based Trends:** Filter jobs based on roles and industries.
+- **Salary Trends:** Display average salaries for different roles and locations.
+- **Job Count Analysis:** Count of job postings per location and role.
+
+---
+
+## 🚀 Steps to Run the Project
+1. **Scraping Job Data:**
+   - Use Power Automate to scrape job data from Naukri.
+   - Export the scraped data into an Excel sheet.
+2. **Data Preparation:**
+   - Clean and preprocess the data for analysis.
+3. **Visualize in Tableau:**
+   - Import the data into Tableau.
+   - Design dashboards for domain, role, and salary analysis.
+
+---
+
+## 📊 Results and Insights
+- **Job Distribution:** Software jobs were more concentrated in metro cities.
+- **Salary Trends:** Higher average salaries were observed in specialized roles.
+- **Role-Based Demand:** Academic roles showed higher demand in tier-2 cities.
 
 
